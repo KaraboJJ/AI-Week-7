@@ -1,6 +1,6 @@
 # AI-Week-7
 
-# COMPAS Recidivism Bias Audit 🔍
+# COMPAS Recidivism Bias Audit 
 
 This project audits racial bias in the COMPAS Recidivism Dataset using IBM's [AI Fairness 360 (AIF360)](https://aif360.mybluemix.net/) toolkit. It includes analysis, bias metrics, visualizations, and a mitigation strategy using reweighing.
 
